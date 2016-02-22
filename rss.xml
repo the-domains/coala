@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[coala]]></title>
         <description><![CDATA[coala]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coala/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 15:17:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 15:18:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coala/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedfd931e05-2362-4192-b49e-4b7a7247981c/index.html</link>
+            <link>https://thegrid.ai/coala/fd931e05-2362-4192-b49e-4b7a7247981c/index.html</link>
             <guid isPermaLink="false">fd931e05-2362-4192-b49e-4b7a7247981c</guid>
-            <pubDate>Mon, 22 Feb 2016 15:17:25 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 15:18:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
