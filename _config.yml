@@ -1,0 +1,28 @@
+name: coala
+favicon: null
+layout_spectrum: 0.6291590521577746
+typography_spectrum: 0.6002401805017143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2693043821491301
+  lightness: 0.12954217311926186
+  saturation: 0.010785705409944057
+  rhythmicContrast: 0.8857664514798671
+purpose: []
